@@ -38,11 +38,6 @@ I build full-stack applications, systems-level tools, and AI-powered software. P
 ### GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshubawse13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshubawse13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshubawse13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 

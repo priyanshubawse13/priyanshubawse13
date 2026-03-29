@@ -30,7 +30,7 @@ I build full-stack applications, systems-level tools, and AI-powered software. P
 
 ### Published Research
 
-📄 **Comparative Analysis of Life Expectancy using Regression Algorithms**  
+📄 **[Comparative Analysis of Life Expectancy using Regression Algorithms](https://www.researchgate.net/publication/384425152_Comparative_analysis_of_life_expectancy_prediction_using_regression_algorithms)**  
 *Intelligent Decision Technologies*, Vol. 19, Issue 1, June 2024 — IOS Press
 
 ---
